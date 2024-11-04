@@ -1,4 +1,4 @@
-# Applied ML QA Bot
+# QuerySage
 
 This project demonstrates how to build a Question-Answering (QA) bot using LangChain, FAISS, and Google Generative AI. The bot is designed to answer questions based on a given context from a CSV file containing FAQs.
 
