@@ -15,8 +15,8 @@ This project demonstrates how to build a Question-Answering (QA) bot using LangC
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Yuval728/applied-ml-qa-bot.git
-    cd applied-ml-qa-bot
+    git clone https://github.com/Yuval728/QuerySage.git
+    cd QuerySage
     ```
 
 2. Install the required packages:
